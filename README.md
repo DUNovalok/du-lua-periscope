@@ -1,5 +1,7 @@
 Dual Universe Periscope script:
 
+ I don't play DU anymore, so maybe this code will be useful to someone someday.
+
 Link programming board 1 to manual switch, then paste the periscope-PB configuration.json in programming board 1
 
 Link this manual switch to programming board 2, then paste the periscope-PB-fix configuration.json in programming board 2
